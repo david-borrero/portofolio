@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.primary-color {
+  color: #3490dc;
+}
+
+.bg-primary-color {
+  background-color: #3490dc;
+}
+
+.bg-primary-color:hover {
+  background-color: #2779bd;
+}
